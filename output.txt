@@ -1,0 +1,131 @@
+-------------------------- Welcome To Expence Tracker --------------------------
+
+Select Your Option
+1. Add new Income
+2. Add new Expense
+3. Get monthly summary
+4. Add Expense From File
+5. Exit From Application
+1
+
+Add New Income selected 
+
+Select Income Type
+1. Salary
+2. Business
+
+1
+
+Add Income Amount
+
+4000
+
+Select Your Option
+1. Add new Income
+2. Add new Expense
+3. Get monthly summary
+4. Add Expense From File
+5. Exit From Application
+1
+
+Add New Income selected 
+
+Select Income Type
+1. Salary
+2. Business
+2
+
+Add Income Amount
+3221
+
+Select Your Option
+1. Add new Income
+2. Add new Expense
+3. Get monthly summary
+4. Add Expense From File
+5. Exit From Application
+2
+
+Add New Expense selected
+
+Select Expence Type
+1. Food
+2. Rent
+3. Travel
+1
+
+Add Expence Amount
+322
+
+Select Your Option
+1. Add new Income
+2. Add new Expense
+3. Get monthly summary
+4. Add Expense From File
+5. Exit From Application
+2
+
+Add New Expense selected
+
+Select Expence Type
+1. Food
+2. Rent
+3. Travel
+2
+
+Add Expence Amount
+212
+
+Select Your Option
+1. Add new Income
+2. Add new Expense
+3. Get monthly summary
+4. Add Expense From File
+5. Exit From Application
+2
+
+Add New Expense selected
+
+Select Expence Type
+1. Food
+2. Rent
+3. Travel
+3
+
+Add Expence Amount
+2232
+
+Select Your Option
+1. Add new Income
+2. Add new Expense
+3. Get monthly summary
+4. Add Expense From File
+5. Exit From Application
+3
+
+ Monthly Summary selected
+
+Your Monthly Income Are
+Income [income=4000.0, incomeType=Salary]
+Income [income=3221.0, incomeType=Business]
+
+Total Income = 7221.0
+
+
+Your Monthly Expence Are
+Expence [expence=322.0, expenceType=Food]
+Expence [expence=212.0, expenceType=Rent]
+Expence [expence=2232.0, expenceType=Travel]
+
+Total Expence = 2766.0
+
+
+
+Total Saving = 4455.0
+
+Select Your Option
+1. Add new Income
+2. Add new Expense
+3. Get monthly summary
+4. Add Expense From File
+5. Exit From Application
